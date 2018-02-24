@@ -1,28 +1,28 @@
 {
   "result": [
-	{
-		"Student's Name": "AASHISH KUMAR",
-		"Admn No": "DPSBBU170818",
-		"Class": "NUR A",
-		"Roll": "1",
-		"Student's DOB": "21 oct 19991",
-		"Student's Email": "kk@gmail.com",
-		"Student's Mobile": "1234567890",
-		"Gender": "FEMALE",
-		"House": "BLUE",
-		"Student's Current Address": "VILL-DRAWAN",
-		"Student's Permanent Address": " P.O SAITHA P.S-BHABUA DIST- KAIMUR",
-		"Joined in Class": "VILL-DRAWAN",
-		"Joined in Session": " P.O SAITHA P.S-BHABUA DIST- KAIMUR",
-		"Current Session": "NUR A",
-		"Fee Category": "2017",
-		"Mother's Name": "2017",
-		"Mother's Occupation": "DAY SCHOLAR",
-		"Mother's Mob No": "KIRAN DEVI",
-		"Father's Name": "HOUSE WIFE",
-		"Father's Occupation": "",
-		"Father's Mob No": "HIRA KUMAR SINGH",
-		"Father's Email": "SERVICE"
-	}
+    {
+      "Student's Name": "AASHISH KUMAR",
+      "Admn No": "DPSBBU170818",
+      "Class": "NUR A",
+      "Roll": "1",
+      "Student's DOB": "21 oct 19991",
+      "Student's Email": "kk@gmail.com",
+      "Student's Mobile": "1234567890",
+      "Gender": "FEMALE",
+      "House": "BLUE",
+      "Student's Current Address": "VILL-DRAWAN",
+      "Student's Permanent Address": " P.O SAITHA P.S-BHABUA DIST- KAIMUR",
+      "Joined in Class": "VILL-DRAWAN",
+      "Joined in Session": " P.O SAITHA P.S-BHABUA DIST- KAIMUR",
+      "Current Session": "NUR A",
+      "Fee Category": "2017",
+      "Mother's Name": "2017",
+      "Mother's Occupation": "DAY SCHOLAR",
+      "Mother's Mob No": "KIRAN DEVI",
+      "Father's Name": "HOUSE WIFE",
+      "Father's Occupation": "",
+      "Father's Mob No": "HIRA KUMAR SINGH",
+      "Father's Email": "SERVICE"
+    }
   ]
-  }
+}
